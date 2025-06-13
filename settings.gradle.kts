@@ -21,4 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyHotelFlow"
 include(":app")
- 
+include(":network")
+include(":common")
+include(":database")
+include(":data")
+include(":domain")
+include(":ui")
